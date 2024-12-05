@@ -33,6 +33,7 @@ your time on what matters.
 10. [Sponsors](#sponsors)
 
 ## Dialects Supported
+## By Mudassir Alam
 
 Although SQL is reasonably consistent in its implementations, there are several
 different dialects available with variations of syntax and grammar. **SQLFluff**
